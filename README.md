@@ -38,4 +38,18 @@ Topic is now less random and more interesting. Cool.
 
 Took a few tries to figure out the accessibility checker. Then I accidentally managed to delete the files when reverting. Thankfully, I kept a backup. Next time, I'm just running another commit.
 
+
+# Project 4 - Project 4 Page & JS Integration
+<details open>
+
+May 3, 2026
+
+<summary>Project 4 - Project 4 Page & JS Integration?</summary>
+
+Yeah, I got lazy with this one. It's fully identical to the Project 3 page.
+
+According to the rubric though, I'll be fine. JS and multi-platform stuff is only worth 25 points, and seeing as my Project 3 submission got full marks, in theory I'll get 75 points if everything goes well.
+
+I'll be honest, motivation kind of ran out here at the end of April and start of May. It won't happen again.
+
 </details>
